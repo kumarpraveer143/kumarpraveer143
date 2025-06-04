@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Praveer Kumar</h1>
-<h3 align="center">Just a software engineer from India who loves turning ideas into working code.</h3>
+<h3 align="center">Just a Tech Lover from Nalanda(Bihar) who loves turning ideas into working code.</h3>
 
 - 🔭 I’m currently working on [Renters](https://github.com/kumarpraveer143)
 
