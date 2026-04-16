@@ -1,24 +1,93 @@
-<h1 align="center">Hi 👋, I'm Praveer Kumar</h1>
-<h3 align="center">Just a Tech Lover from Nalanda(Bihar) who loves turning ideas into working code.</h3>
+<!-- Header -->
+<div align="center">
 
-- 🔭 I’m currently working on [Renters](https://github.com/kumarpraveer143)
+```
+██████╗ ██████╗  █████╗ ██╗   ██╗███████╗███████╗██████╗
+██╔══██╗██╔══██╗██╔══██╗██║   ██║██╔════╝██╔════╝██╔══██╗
+██████╔╝██████╔╝███████║██║   ██║█████╗  █████╗  ██████╔╝
+██╔═══╝ ██╔══██╗██╔══██║╚██╗ ██╔╝██╔══╝  ██╔══╝  ██╔══██╗
+██║     ██║  ██║██║  ██║ ╚████╔╝ ███████╗███████╗██║  ██║
+╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝  ╚══════╝╚══════╝╚═╝  ╚═╝
+```
 
-- 🌱 I’m currently learning **Big Data**
+### `> Praveer Kumar _ ` &nbsp;|&nbsp; Tech Lover from Nalanda, Bihar
 
-- 📝 I regularly write articles on [https://blogging-application-ten.vercel.app/](https://blogging-application-ten.vercel.app/)
+*turning ideas into working code, one commit at a time.*
 
-- 💬 Ask me about **Backend, frontend, Big Data, Distributed System, Networking, Operating System, Linux**
+---
 
-- 📫 How to reach me **kumarpraveernit@gmail.com**
+</div>
 
-- ⚡ Fun fact **I might look easily convinced… but trust me, I’ve already analyzed all sides in my head before I nodded.**
+## `whoami`
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/kumarpraveer3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kumarpraveer3" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/praveerdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/praveerdeveloper/" height="30" width="40" /></a>
-<a href="https://instagram.com/kumarpraveeer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kumarpraveeer" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/kumarpraveer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/kumarpraveer/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/kumarpraveer2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/kumarpraveer2001" height="30" width="40" /></a>
-</p>
+```bash
+$ cat about.json
+```
 
+```json
+{
+  "name"     : "Praveer Kumar",
+  "origin"   : "Nalanda, Bihar, India",
+  "role"     : "Full-Stack Developer",
+  "learning" : ["Big Data", "Distributed Systems"],
+  "interests": ["Backend", "Frontend", "Networking", "Linux", "OS"],
+  "fun_fact"  : "I might look easily convinced...
+                  but I've already analyzed all sides
+                  in my head before I nodded."
+}
+```
+
+---
+
+## `skills --list`
+
+**Backend**
+`Node.js` &nbsp;`Express` &nbsp;`REST APIs` &nbsp;`SQL` &nbsp;`MongoDB`
+
+**Frontend**
+`React` &nbsp;`HTML/CSS` &nbsp;`JavaScript`
+
+**Systems & Infrastructure**
+`Linux` &nbsp;`Networking` &nbsp;`Operating Systems` &nbsp;`Distributed Systems`
+
+**Big Data** *(currently learning)*
+`Hadoop` &nbsp;`Spark` &nbsp;`Data Pipelines`
+
+---
+
+## `git log --projects`
+
+```
+commit 1a2b3c4  (HEAD -> main)
+Author: Praveer Kumar <kumarpraveernit@gmail.com>
+Date:   Active
+
+    feat: EasyRent — rental management platform
+    
+    Full-stack application built to simplify the
+    renting experience for both owners and tenants.
+
+    live  → https://easyrent-red.vercel.app
+    code  → https://github.com/kumarpraveer143/Renters
+```
+
+---
+
+## `ping me`
+
+| channel | handle |
+|---|---|
+| 📧 Email | [kumarpraveernit@gmail.com](mailto:kumarpraveernit@gmail.com) |
+| 💼 LinkedIn | [linkedin.com/in/praveerdeveloper](https://www.linkedin.com/in/praveerdeveloper) |
+| 🐙 GitHub | [github.com/kumarpraveer143](https://github.com/kumarpraveer143) |
+| 📞 Phone | [+91 82529 65226](tel:+918252965226) |
+
+---
+
+<div align="center">
+
+*`// EOF — Thanks for scrolling`*
+
+![Visitor Count](https://komarev.com/ghpvc/?username=kumarpraveer143&color=grey&style=flat&label=profile+views)
+
+</div>
