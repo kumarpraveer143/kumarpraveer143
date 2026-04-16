@@ -68,7 +68,7 @@ Date:   Active
     renting experience for both owners and tenants.
 
     live  → https://easyrent-red.vercel.app
-    code  → https://github.com/kumarpraveer143/Renters
+    code  → https://github.com/kumarpraveer143/easyrent
 ```
 
 ---
