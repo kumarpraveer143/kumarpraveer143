@@ -88,6 +88,4 @@ Date:   Active
 
 *`// EOF — Thanks for scrolling`*
 
-![Visitor Count](https://komarev.com/ghpvc/?username=kumarpraveer143&color=grey&style=flat&label=profile+views)
-
 </div>
