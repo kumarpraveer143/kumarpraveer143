@@ -42,7 +42,7 @@ $ cat about.json
 ## `skills --list`
 
 **Backend**  
-`Node.js` `Express` `REST APIs` `SQL` `MongoDB` `Redis` `BullMQ`
+`Node.js` `Express` `NestJS` `REST APIs` `SQL` `MongoDB` `Redis` `BullMQ`
 
 **Frontend**  
 `React` `Next.js` `HTML/CSS` `JavaScript`
