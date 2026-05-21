@@ -41,17 +41,17 @@ $ cat about.json
 
 ## `skills --list`
 
-**Backend**
-`Node.js` &nbsp;`Express` &nbsp;`REST APIs` &nbsp;`SQL` &nbsp;`MongoDB`
+**Backend**  
+`Node.js` `Express` `REST APIs` `SQL` `MongoDB` `Redis` `BullMQ`
 
-**Frontend**
-`React` &nbsp;`HTML/CSS` &nbsp;`JavaScript`
+**Frontend**  
+`React` `Next.js` `HTML/CSS` `JavaScript`
 
-**Systems & Infrastructure**
-`Linux` &nbsp;`Networking` &nbsp;`Operating Systems` &nbsp;`Distributed Systems`
+**Systems & Infrastructure**  
+`Linux` `Shell Scripting` `Networking` `Operating Systems` `Distributed Systems` `AWS`
 
-**Big Data** *(currently learning)*
-`Hadoop` &nbsp;`Spark` &nbsp;`Data Pipelines`
+**Big Data** *(currently learning)*  
+`Hadoop` `Spark` `Data Pipelines`
 
 ---
 
